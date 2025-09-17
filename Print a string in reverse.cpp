@@ -22,5 +22,5 @@ int main() {
 }
 
 //OUTPUT:
-//Enter a string: Ishika
-//Reversed string: akihsI
+//Enter a string: HaHa
+//Reversed string: aHaH
